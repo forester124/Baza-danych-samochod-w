@@ -1,0 +1,54 @@
+[
+  {
+    "imie": "Damian",
+    "nazwisko": "Skarbiecki",
+    "rola": "user",
+    "listaUlubionychSamochodow": [
+      1,
+      7,
+      8,
+      10,
+      17,
+      16,
+      12,
+      11
+    ],
+    "haslo": "1234",
+    "id": 4,
+    "email": "damian.skarbiecki@gmail.com",
+    "status": true
+  },
+  {
+    "imie": "Barek",
+    "nazwisko": "Marek",
+    "rola": "admin",
+    "listaUlubionychSamochodow": [
+      3,
+      2,
+      7,
+      1,
+      10,
+      12,
+      30
+    ],
+    "haslo": "1234",
+    "id": 2,
+    "email": "bm@wp.pl",
+    "status": true
+  },
+  {
+    "imie": "Majkel",
+    "nazwisko": "Majkowskiii",
+    "rola": "user",
+    "listaUlubionychSamochodow": [
+      7,
+      1,
+      8,
+      12
+    ],
+    "haslo": "1234",
+    "id": 3,
+    "email": "123@wp.pl",
+    "status": false
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "typNadwozia": "van",
+    "rodzajPaliwa": "diesel",
+    "pojemnoscSilnika": 1500,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Imd5Zm1kOWMxanpwMjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.f2y_hqDxXaho0-DiH3QdiE6RMoUPoCusM6IoVtC1oek\/image;s=1080x720",
+    "marka": "Renault",
+    "model": "Kangoo",
+    "id": 10,
+    "rokProdukcji": 2008,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImxpY3hweTlhM3NvbDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.3l2jU64QsmWD3RcZnh7ZGcJ2zYn6PO4ltQy-_TnEF6I\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjhibHUwMm50cGxlODEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.8Y1mJnf0TiBjGeJRwFWL_0xrZSZhpMTITMAqZPVMCos\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Img2ODVqM2lnbGh3bS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.I3AMcMMCzq0LM6MEQb8uhdsCFmHGgaph_UzUKmI6sNM\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InFmN3Jnczd6NmJoZy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1w_gDXw7cJLbzhznlRSr-UZ7SkSIElL_wdTIist2N1Q\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Inl1NTUxYTRiOHZkNy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.-zNiRAvkA9EoT1-BpZnb6Metnqlub2LA7nrAgHn_VeE\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "hatchback",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 1400,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Ind4bnA1MnRrajE0YzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.BRYmx5HBrc8cDY3DWQmI_D5NgUZiHgUi6KYeeZttvOc\/image;s=1080x720",
+    "marka": "Rover",
+    "model": "200-Series",
+    "id": 12,
+    "rokProdukcji": 1999,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImIwdGRscWl3cTE4bTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VlB3Ie8p48Uk9W9rUOvJ_HrPcZGiz55kPJVwmCIBi3Y\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im1qODk5ODQ3NGRsNTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.XttRSWWEUnnvbN_Rw1RINswWUNdxBTeFf955dGZHzbs\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImFiODc0c2k5bndxaS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._mL9c54IxpHG9J-5hIj3KuUPKDWI0I46CwPI4zx07tA\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImpyOWp5endyaWVnaDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.CId6BSZ8aKwfZpspIAQS4Z7vO1LX3TkJKl1cOTT6Cjo\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im5yMDNqOTN2ZDA4Ni1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.AxgKzI6b7MA-paSFaK9YyfeErvKiUx6vcAYaDjlzDdQ\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "universal",
+    "rodzajPaliwa": "diesel",
+    "pojemnoscSilnika": 2500,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InJ2MzJrbG9vbXM0NjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.NUB3Di-juvVW8tayjhJ34ZbW3W1Npnh3U7klTt2E0xo\/image;s=1080x720",
+    "marka": "Audi",
+    "model": "A6",
+    "id": 16,
+    "rokProdukcji": 2000,
+    "urlWszystkieZdjecia": [
+      " https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Ijdsd2N0cnlhamJxNjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.KEv30sgfXHFolRu3FFTFd4pniIEXLJgpwn6aatDE2r4\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImhpempyeGtyZG4zeTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.qxkX7r2XlUf3bOo94sDsazXReFad4Yp3nsfP_Odr3Ms\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InptdmR5ZXM0dTA3MS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.UZUOps2qjVhdM7QpE_zJNXBI8vzbKCvXfp19aUet-Dg\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InQwdW45b3lrMmJjcTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.SXCnRxdlE8SnuXM5qp3vSbFDHLeV7E8Xc-RoGHcMQ80\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Inh3ZDEzYXpzZ2FydjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.YGNieTu64_S-xU-eDdhaSDzQ7qXDjNgjVnWm_LCGw0g\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "hatchback",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 2000,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Imtubmo5YmhlNnFqMS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.ZQpAW6UR0BXv9k5Siib5Btk_VPsyqZwrAQLCCKoT6ps\/image;s=1080x720",
+    "marka": "Hyundai",
+    "model": "Elantra",
+    "id": 18,
+    "rokProdukcji": 2000,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im42bGt2ZjE2N3k1MTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.1Qtuc7A07YprJiHxWRNGd8YNbuMbaVdg9LxuawlprPo\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InRtdTMwMWR6bm4wMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.hf_2yQUY4T3sGloNT7VSuHHRV7G5Z4dQlQrWhhvYiaA\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImswaTNkdHU2cDZqYy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.F6SMGwOoTPGjLiYFsr6IlsXIwKYy6uz2uhIUpLNNW2Y\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Imo0MWt0d2dwdmc1ay1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._nBV7AZMNq_3iIk75JTq1_1ZY2kHvQCoe4zQEdhfsr8\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InI1d2d0M284YW9oZy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.owWkjhjdBFWVhF_1bXprOmaZGaGCyG5Ep20y2SzbXoA\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "suv",
+    "rodzajPaliwa": "diesel",
+    "pojemnoscSilnika": 1600,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImJ2MGNudHBjbG5haTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.o9c9RqdBlwCDSN20MfMZKXHh54SzUXJt4nQG9MfAhUA\/image;s=1080x720",
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "id": 19,
+    "rokProdukcji": 2008,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImY2aTlpbXY2Yzg4czItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.ZOrbLckjUAnqz5-2QzLKFDCZqotjtoqqtaLFGGS2Ov4\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Imp0bzlsYTVnc2thZTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19._ABoovw6w02a0c0KWZ5Ps7QRXxjUdq8N221LES5cmAs\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Imd5b3RpM2V5Z3RodTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.D4V5JOE80Vv0oXbNdXGQXOplmJsNl4dxBZAEXZY3UdM\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Ing1MjlwOG0yMnh3bDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.XffT1PY9M9VzsZDCaZmoBJBeA9iblyZsiI9pl1aLqBw\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImYzY2piazl0Nm5tNTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.OVI-YHs-rmZ2pK0p67xsJmb8yWKGySXw68d7gQMayqs\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "sedan",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 1600,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImVkcXp2Y2RzbnMzMjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Bzo-fSHOGdv17X-lcJZ4klUFGkWYqBm3pBcqD9xVm2w\/image;s=1080x720",
+    "marka": "Suzuki",
+    "model": "Baleno",
+    "id": 20,
+    "rokProdukcji": 2006,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InlobzA5OGttMG1qbS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GqU-HGQkV_C4sCrJDMsuh55pZA8khasaRvFsdVluRSI\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImFyNWhvcDhtNDhvcjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wqPF1vihEG5ZwTdJ43NG9ArQviW49uUaVbkwBUudTDI\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InZ3am1yZmZ3ZGlwajMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wVgdknfTjdI5sFESW7gLnSJd0RoOnapE5xOFGbYbgeA\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjZjMTloc2pmNW82azMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.aldLSHGHBCqXAJEbTAYmeWUxVdpzo8xKN6rNTBLuC88\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InU4bG80c2U5bDhqNzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.c2NNU1NAHABcKZmyhfhU4RcjxE7C_2wDLO68sLafZn8\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "sedan",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 3000,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImxxeXBnOXJuYW1jYy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.fZg4sS2S-P58GPaErZCYNuEvbaW5SZOWsXHD-xeKVAA\/image;s=1080x720",
+    "marka": "BMW",
+    "model": "530",
+    "id": 21,
+    "rokProdukcji": 2001,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImU1MmJnb2M0Ym9nbTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.rNGbh2zS08G3ZqveHWMN2puXt7_5O5W9nvte-qWkCgI\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Imw1dnA3ODh5dW9uNDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.dy-VuT71axspdFWBK4YFEH-PtSrLkA4ycI1XF8lJAcQ\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImF6OTQ2NHU5aW1yYTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.v3u5g09v59QCj44wkq1s3i1iRKnJ7ETCnUuWvA3GVMw\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Ijgyejd0cWt5cTBqYS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.r7vM0uPBwcSKRF-OXAJ9kAUDrvDA9Vltw_sYUzxn_cY\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjdoNXJsc3lzcm4yMDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Wi9ztU3iK9EbD_Uj04M3w5AqKY-4Ky85MCgYYnlwDCE\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "sedan",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 2000,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IndmbngzOHMyZTJyOTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.LKYWo6K42qCUrHMNZMv_fLCBcDVMf-3QjtC6OIX6wEA\/image;s=1080x720",
+    "marka": "Mazda",
+    "model": "6",
+    "id": 22,
+    "rokProdukcji": 2008,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InBwMWs3cngydWp0dDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.UWZnwdfw60_8I2TMmTxXLO5R65RxnhnAPi_LsZEq_WM\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InN0ZnY0ZTd5YW11ay1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.i4uc7mnF2wmpYxi-WuWdMtIkGX5P_QspCbGHVCfdvt0\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImMxbmhoY2U1YnFhZTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.ODLG2G9keYvW3rIRJhTH6fMNJ0b1SmoZSVElrbqZkIo\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Ijh2bjhnNnVhdm56cTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.FRiQndF2zn2lj7vOdBBKE1eoEyPS1aCboCXGpr5TckA\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImlvNng1N2I4ZDk4NC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.DbXV0WTaBqbhTZJg8uJrMmOFdjNT8mcuqhViMTqFyro\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "suv",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 2500,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjgyZjNnNXhsOXF5azItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.51M8591iRkoHeLzyoNWqgSEniBRwTGyNejoLGyh2TNQ\/image;s=1080x720",
+    "marka": "Land Rover",
+    "model": "Freelander",
+    "id": 23,
+    "rokProdukcji": 2001,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImV0bXdoeHVvZDNxbzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.iXDc0InOwfkYCJQjdNKQDaHl3RURfeZvhZMdzSt-x3o\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImN3MmQ1ZmkxZW00bDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.L9cHHp1-FhnKZ0JiruYIn1Hy0dNnBvnUWXWkggtkQXU\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjFiYzFqdHZpMjlpLU9UT01PVE9QTCIsInciOlt7ImZuIjoid2c0Z25xcDZ5MWYtT1RPTU9UT1BMIiwicyI6IjE2IiwicCI6IjEwLC0xMCIsImEiOiIwIn1dfQ.rQrv7bzn1LzEUx2HcbnA_ZbhSq9q89nnlrCkJBux7HA\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InpxMXhqeWZrZnhiZDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.sgGUFiF0vQylbboSeGSsjdTicRzZEwyIo1j-MePrlOw\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImtvemkyNnZhcGd4OC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.GTrLvHYbP-bFqWph2HDzQR-cmemjR2VsGFWym8YoOk4\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "van",
+    "rodzajPaliwa": "diesel",
+    "pojemnoscSilnika": 2800,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im4zb3JuMnM1MXNnby1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0._en_6DE1S6Tx53sKTr9NGSY2HRdN-9aI4bxdKK3C9K4\/image;s=1080x720",
+    "marka": "Iveco",
+    "model": "Daily",
+    "id": 24,
+    "rokProdukcji": 2006,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImV2ZWxvMW90OWRhNi1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.4JKY_zQzP-BayJG0DbO4-J9cY62adxURS6nKT_jsJEA\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InU5cWxkd3pwdHh1MDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.ZEvp_L3JAqPfjAQAMj-_dKInpgeFo_qkNwf-QoyT8IY\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Inh3OGFtdmp0bjZwby1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hSWq3h-Agq0OhXAtRyviwJpT0_K7x0yCUkl9-jX3Xfw\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImVvcW9zeGYyZ3F4eDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.VZ_4A2dnXMgA0CUFFDsqG8-qbQhPGuJoBmZA7L0yIAE\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjQ5OXZoamI4aHBxNC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.HONaJx9pLbv4qA5eRFYtsUBjYuuLjp1BQ2ODNg8AWw4\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "sedan",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 2000,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im0xM3VvdXpyODBueTEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.giwUG5FpgD_zhPhvnQk5c2tOsPjs7s9xWU9RDbru_n4\/image;s=1080x720",
+    "marka": "Saab",
+    "model": "9 - 3",
+    "id": 26,
+    "rokProdukcji": 2004,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjZ5ZDU0eGlyZWtrMS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.3SGXhYv8Oe9aR3IxsyaAmAULc52jPQCDNNWP-d5BM98\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InA2M281OXh3ajBvNy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.1hRFl4y1PdrrBSn5UPR88hLuDRSiHELgWDnqKZwj1vk\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Inp3OWt6aGk2dXJxbjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.vvPu8o60Fx5p1YEAXEQWqJVr017DVB2JSC9ON-8SnGg\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjY0bGhzcDB3a2R4YzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.lNrxck1X29v_CdVyu1Bfnu-z-UvD61RP_wx2PCnrkpA\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InRvZTlsZnNsb2phbTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.V9qWafO4WA0H1288Ato7UsFQKZKKMdF4U7HdrmNnBNo\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "sedan",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 1800,
+    "urlGlowneZdjecie": "https:\/\/thumbs.img-sprzedajemy.pl\/1000x901c\/0a\/0d\/c8\/2009-honda-civic-18benz-140-automat-5drzwi-mozliwa-zamiana-civic-warszawa-548989224.jpg",
+    "marka": "Honda",
+    "model": "Civic",
+    "id": 27,
+    "rokProdukcji": 2009,
+    "urlWszystkieZdjecia": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ]
+  },
+  {
+    "typNadwozia": "sedan",
+    "rodzajPaliwa": "diesel",
+    "pojemnoscSilnika": 1900,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InJodzE2aHVuenM2MzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.N1EMqk1zU1QxOr74fryD933gWtn_uORADP0WJhdxib8\/image;s=1080x720",
+    "marka": "Peugeot",
+    "model": "406",
+    "id": 29,
+    "rokProdukcji": 1997,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImI0MmhjZG9tcmNsajEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.Mvox9J6XAQZJbaBDVfcUDCXnb0OReUWbH9zdN46AFC0\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InFkenc0NHMxZ3dtcC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.cj3TPtBT06U6eTWkvrDvmsVOqZ5C797ew6s1UIJyWK8\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InJyOHRycXl0ajd2cDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.kV-1DZxbqQJqZKQSagq8QdX_W9WB2teBD6ZRHJb0WkM\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjhpejJlZDE0YmRsbjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.2mrhUfaDooQlki0DV_Ako_AAkm6SbxPav8jVLcRqUJQ\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im9hcTI4ZGdkYnVzZDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.oesj719llO29D-wtgcCSGisjBr99cjcGf-5zMMffTHM\/image;s=1080x720 "
+    ]
+  },
+  {
+    "typNadwozia": "sedan",
+    "rodzajPaliwa": "gasoline",
+    "pojemnoscSilnika": 2011,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjhkcHBzc3M0ZWJqcjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.njfybEbcEScRVVWuv4VBt8bCjSYoLGLWGTxYosJFr-I\/image;s=1080x720",
+    "marka": "Kia",
+    "model": "Riooooooo",
+    "id": 2,
+    "rokProdukcji": 2011,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjB1NGYzc2lsaDFiYzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.d9h58x8H0-T0PuCCtus-kWrmxOM54Jp3EmQn3kid7UQ\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InJjdzBleTBpMGNxMy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.9tB3nDBYIZ0NUvuAHGtAMKimt0_haJoSKdLDn3o5seA\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im0xYmg0OTgza2QxdDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.XYszc20yBKY2O4NCdU0xDqZBeCXfUHtXEZdCXvip5-w\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im1nanI1cTB5MDEzai1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.PqqNEhpbWUc_-hu98ow88hsrSKUJVrJ96h_XvLI0JiQ\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Ijh1YnFrOHNqaWF1OTMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.yIMPDgAUwV3MKrnlLmaoiKtAYIPaFd_7Bx64ZT9bLs4\/image;s=1080x720"
+    ]
+  },
+  {
+    "typNadwozia": "Crossover",
+    "rodzajPaliwa": "Benzyna+LPG",
+    "pojemnoscSilnika": 1995,
+    "urlGlowneZdjecie": "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/76f5464e40dfc8e91a0a4f3aae3e60bc\/6190f46625438_small.jpg",
+    "marka": "SUBARU",
+    "model": "XV",
+    "id": 30,
+    "rokProdukcji": 2014,
+    "urlWszystkieZdjecia": [
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/76f5464e40dfc8e91a0a4f3aae3e60bc\/6190f46625438_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/76f5464e40dfc8e91a0a4f3aae3e60bc\/6190f466a2b17_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/76f5464e40dfc8e91a0a4f3aae3e60bc\/6190f46735c82_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/76f5464e40dfc8e91a0a4f3aae3e60bc\/6190f46814430_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/76f5464e40dfc8e91a0a4f3aae3e60bc\/6190f4687ca0a_original.jpg"
+    ]
+  },
+  {
+    "typNadwozia": "Kombi",
+    "rodzajPaliwa": "Benzyna",
+    "pojemnoscSilnika": 1798,
+    "urlGlowneZdjecie": "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/46bfecda66c4d1a1b600039d5af9b605\/exterior-closed_nr_008_small.jpg",
+    "marka": "VOLKSWAGEN",
+    "model": "Passat",
+    "id": 31,
+    "rokProdukcji": 2017,
+    "urlWszystkieZdjecia": [
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/46bfecda66c4d1a1b600039d5af9b605\/exterior-closed_nr_006_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/46bfecda66c4d1a1b600039d5af9b605\/exterior-closed_nr_013_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/46bfecda66c4d1a1b600039d5af9b605\/exterior-closed_nr_020_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/46bfecda66c4d1a1b600039d5af9b605\/exterior-closed_nr_024_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/46bfecda66c4d1a1b600039d5af9b605\/exterior-closed_nr_031_original.jpg"
+    ]
+  },
+  {
+    "typNadwozia": "Kombi",
+    "rodzajPaliwa": "Diesel",
+    "pojemnoscSilnika": 1969,
+    "urlGlowneZdjecie": "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/5d5fb9418e328ebe248515fc08a09865\/exterior-closed_nr_001_small.jpg",
+    "marka": "VOLVO",
+    "model": "V60",
+    "id": 32,
+    "rokProdukcji": 2019,
+    "urlWszystkieZdjecia": [
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/5d5fb9418e328ebe248515fc08a09865\/exterior-closed_nr_001_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/5d5fb9418e328ebe248515fc08a09865\/exterior-closed_nr_002_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/5d5fb9418e328ebe248515fc08a09865\/exterior-closed_nr_003_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/5d5fb9418e328ebe248515fc08a09865\/exterior-closed_nr_005_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/5d5fb9418e328ebe248515fc08a09865\/exterior-closed_nr_006_original.jpg"
+    ]
+  },
+  {
+    "typNadwozia": "SUV",
+    "rodzajPaliwa": "Diesel",
+    "pojemnoscSilnika": 1968,
+    "urlGlowneZdjecie": "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/23de261f3a287777868e7bab4559a8eb\/6194c5be8138c_small.jpg",
+    "marka": "AUDI",
+    "model": "Q5",
+    "id": 33,
+    "rokProdukcji": 2017,
+    "urlWszystkieZdjecia": [
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/23de261f3a287777868e7bab4559a8eb\/6194c5be8138c_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/23de261f3a287777868e7bab4559a8eb\/6194c5bf00940_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/23de261f3a287777868e7bab4559a8eb\/6194c5bf6eb24_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/23de261f3a287777868e7bab4559a8eb\/6194c5c060828_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/23de261f3a287777868e7bab4559a8eb\/6194c5c126eac_original.jpg",
+      ""
+    ]
+  },
+  {
+    "typNadwozia": "Kombi",
+    "rodzajPaliwa": "Diesel",
+    "pojemnoscSilnika": 2993,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImNpZGl2dmQ2amZ2bjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.kkoewt9sMkXT5rmPyv2_ONLzD6cLMEmvopQs37_GKxg\/image;s=1080x720",
+    "marka": "BMW",
+    "model": "Seria 5 530d",
+    "id": 34,
+    "rokProdukcji": 2008,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImNpZGl2dmQ2amZ2bjMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.kkoewt9sMkXT5rmPyv2_ONLzD6cLMEmvopQs37_GKxg\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImYyNDV1eGV1NHYyYzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.fpdvLStO_-hEARKYmtUqmbtCtu9gDkv3Z7iIFEWricI\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjF0NWlkYmN0MXBpczMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.DH-kkjoPJKfX5xyFIMxBjAg0JCKF_CZWbeR0G9_lo-U\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im5zM2VjcXY2OXp1OC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.hHX89yrvqXwlHzBZb893n0Sj3o-Dn9nXxmUAR-gsQcE\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjVyaXRlMmpscHR2ZzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.o6gYOpagDWKAFIdHWiGGzn7-Ks7izUMbT2NANnXP-ZQ\/image;s=1080x720"
+    ]
+  },
+  {
+    "typNadwozia": "SUV",
+    "rodzajPaliwa": "Diesel ",
+    "pojemnoscSilnika": 2967,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InIzYjQ0b2NiNTNzMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.SfbZw7mY1fouGcZZW2El6sJHWvtt_yhvVgKCbnjcwoc\/image;s=1080x720",
+    "marka": "Audi",
+    "model": "Q7",
+    "id": 35,
+    "rokProdukcji": 2014,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InIzYjQ0b2NiNTNzMTItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.SfbZw7mY1fouGcZZW2El6sJHWvtt_yhvVgKCbnjcwoc\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InhrOTU5bTJ1dWxwMjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.arh1YfbQIffFIbpswVVNlcmgchn4UdOy47zQ5NuVw2I\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImsweTRsd2Y0NThjajItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.G_5YXUHy15B93jMcKu4cxzlKvwOg3CVpPVyD7IvTP-U\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImJ1bnp0cXRnOWgwcy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.aK4M0MUAFFBo0780yCEtriOKEOV1ryjPaEfk0u_Y17I\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjZlMHlhZ3MzZGFtcDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.TEx0LDD-6epC95eZjMBDnKDzy9RgN3E-p3kCyFgwWZg\/image;s=1080x720"
+    ]
+  },
+  {
+    "typNadwozia": "SUV",
+    "rodzajPaliwa": "Diesel",
+    "pojemnoscSilnika": 1968,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im9iNjlieHlsYXJzNzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wuTLDxljHyegeVaIFrBAV-FkIr_dDeCZ9xMbbODDL1Q\/image;s=1080x720",
+    "marka": "Audi",
+    "model": "Q5",
+    "id": 36,
+    "rokProdukcji": 2017,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6Im9iNjlieHlsYXJzNzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.wuTLDxljHyegeVaIFrBAV-FkIr_dDeCZ9xMbbODDL1Q\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImFvOGloOW56bGcxNjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.2q_us0g6NAhKLZL4vpSyStDcO2l2tB2UMkPBQjnh3NI\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IndjNXhianc2cHl6ZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.s_DKZ1mw7pu9Cg26HjY_Zd6WENbrYut0XIf_RsIlbfM\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6ImJveXlybnEzZDB3djMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.iiv2o4InzeWLDrGvBptMUTu0KuWjMym7tV_E-H3eSC0\/image;s=1080x720",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InE4cW5ocnM3dXJqcy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.OUoBn7YkbE1n1iFjCeNuzMPhKl3D_691pDiq_CPl7nE\/image;s=1080x720"
+    ]
+  },
+  {
+    "typNadwozia": "SUV",
+    "rodzajPaliwa": "Benzyna",
+    "pojemnoscSilnika": 1999,
+    "urlGlowneZdjecie": "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/7aabfc5c8533c1dbd4426d7c4b378ac8\/exterior-closed_nr_006_original.jpg",
+    "marka": "SKODA",
+    "model": "Kodiaq",
+    "id": 38,
+    "rokProdukcji": 2017,
+    "urlWszystkieZdjecia": [
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/7aabfc5c8533c1dbd4426d7c4b378ac8\/exterior-closed_nr_006_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/7aabfc5c8533c1dbd4426d7c4b378ac8\/exterior-closed_nr_013_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/7aabfc5c8533c1dbd4426d7c4b378ac8\/exterior-closed_nr_020_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/7aabfc5c8533c1dbd4426d7c4b378ac8\/exterior-closed_nr_024_original.jpg",
+      "https:\/\/cdn.otomotoklik.pl\/static\/img\/vc\/7aabfc5c8533c1dbd4426d7c4b378ac8\/exterior-closed_nr_031_original.jpg"
+    ]
+  },
+  {
+    "typNadwozia": "123",
+    "rodzajPaliwa": "123",
+    "pojemnoscSilnika": 123,
+    "urlGlowneZdjecie": "123456",
+    "marka": "123",
+    "model": "123",
+    "id": 37,
+    "rokProdukcji": 123,
+    "urlWszystkieZdjecia": [
+      "1234",
+      "123",
+      "123",
+      "123",
+      "123"
+    ]
+  },
+  {
+    "typNadwozia": "universal",
+    "rodzajPaliwa": "diesel",
+    "pojemnoscSilnika": 2001,
+    "urlGlowneZdjecie": "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjgzeHoxYXR0ZHdxZDEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.hcXWDXI_p2vIgPQstUqmmZlrS-upgTQC-nTDj-EyiS4\/image;s=1080x720",
+    "marka": "Lancia",
+    "model": "Lybra",
+    "id": 7,
+    "rokProdukcji": 2001,
+    "urlWszystkieZdjecia": [
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InRyeTJ2dHJyYjJnOS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsInAiOiIxMCwtMTAiLCJhIjoiMCJ9XX0.WPK3bIxXGsr2cmdjIMB4p2O2o-395B07TNFMmdqnasA\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjI1aGJrbWtxNzYzNDItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.3w_G8KzKI3SWq8mY92PHjx2SmttHFLKrq25blba-e5Q\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6InZnajB4aHdmdmNzZjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.LlnAGhIaw6-xIrnABR36N0yctPY9sk8JiBfSEj8A8Aw\/image;s=1080x720 ",
+      "https:\/\/ireland.apollo.olxcdn.com\/v1\/files\/eyJmbiI6IjF6MmpvOG9jMnF3NzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.dBn4A2hiTotbqd5qYhxCtAO5owzH1_LSV4pj01iGFjI\/image;s=1080x720 ",
+      "dsa",
+      "dd"
+    ]
+  },
+  {
+    "typNadwozia": "123",
+    "rodzajPaliwa": "123",
+    "pojemnoscSilnika": 1999,
+    "urlGlowneZdjecie": "123",
+    "marka": "123",
+    "model": "123",
+    "id": 39,
+    "rokProdukcji": 1999,
+    "urlWszystkieZdjecia": [
+      "123",
+      "123"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imie": "Majkel",
+    "nazwisko": "Majkowski",
+    "rola": "admin",
+    "listaUlubionychSamochodow": [],
+    "haslo": "1234",
+    "id": 3,
+    "email": "123@wp.pl",
+    "status": true
+  },
+  {
+    "imie": "Barek",
+    "nazwisko": "Marek",
+    "rola": "user",
+    "listaUlubionychSamochodow": [
+      3,
+      2,
+      7,
+      1
+    ],
+    "haslo": "1234",
+    "id": 2,
+    "email": "bm@wp.pl",
+    "status": true
+  }
+]
